@@ -73,14 +73,8 @@ My cybersecurity learning, CTF challenges, security experiments, and related wor
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=radoanjaman&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400"
-    height="170"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=radoanjaman&layout=compact&hide_border=true&langs_count=8&cache_seconds=86400"
-    height="170"
-  />
+  <img src="./profile/stats.svg" height="170" />
+  <img src="./profile/top-langs.svg" height="170" />
 </p>
 
 ---
@@ -88,10 +82,10 @@ My cybersecurity learning, CTF challenges, security experiments, and related wor
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=radoanjaman&hide_border=true" />
+  <img
+    src="https://streak-stats.demolab.com?user=radoanjaman&hide_border=true"
+  />
 </p>
-
----
 
 ## 🎯 Currently Learning
 
