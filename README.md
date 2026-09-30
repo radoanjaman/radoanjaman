@@ -1,74 +1,85 @@
 # Hi, I'm Radoan Moktaken Jaman 👋
 
-### CSE Student | Software Development | Cybersecurity | Problem Solving
+### CSE Undergraduate | Software Development | Cybersecurity | DSA & Competitive Programming
 
 I'm a Computer Science student interested in **software development, cybersecurity, data structures & algorithms, and emerging technologies**.
 
-I learn by building projects, solving programming problems, participating in CTF competitions, and exploring new technologies.
+I learn by **building projects, solving programming problems, participating in CTF competitions, and exploring new technologies**.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
+### Languages
 
-<div data-importer="techs" align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="55" alt="C" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="55" alt="C++" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55" alt="Python" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="55" alt="Java" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
-  <img width="12" />
-  </div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="55" alt="C#" />
+</p>
 
-**Tools & Technologies**
-<div data-importer="techs" align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="60" alt="anaconda logo"  />
-  <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="60" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="60" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
-</div>
+### Tools & Technologies
 
-**Interests**
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="55" alt="Git" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="55" alt="GitHub" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="55" alt="Linux" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="55" alt="Bash" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="55" alt="Docker" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="55" alt="Node.js" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="55" alt="Anaconda" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="55" alt="Arduino" />
+</p>
 
-`Data Structures & Algorithms` · `Competitive Programming` · `Cybersecurity` · `CTF` · `Software Engineering` · `AI/ML`
+### Interests
+
+`Data Structures & Algorithms` ·
+`Competitive Programming` ·
+`Cybersecurity` ·
+`CTF` ·
+`Software Engineering` ·
+`AI / ML`
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="./profile/stats.svg" height="170" />
-  <img src="./profile/top-langs.svg" height="170" />
+  <img src="./profile/stats.svg" height="170" alt="GitHub Stats" />
+  <img src="./profile/top-langs.svg" height="170" alt="Top Languages" />
 </p>
-
 
 ---
 
-## 🔥 Contribution Streak
+## 🔥 Contributions & Achievements
 
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=radoanjaman&theme=dracula&hide_border=false"
+    height="150"
+    alt="GitHub Contribution Streak"
+  />
+  <img
+    src="https://raw.githubusercontent.com/radoanjaman/radoanjaman/trophy-output/trophy.svg"
+    height="150"
+    alt="GitHub Trophies"
+  />
+</p>
 
-
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=radoanjaman&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/radoanjaman/radoanjaman/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
+---
 
 ## 🎯 Currently Learning
 
@@ -77,29 +88,44 @@ I learn by building projects, solving programming problems, participating in CTF
 - Software Development
 - Cybersecurity & CTF
 - Git & GitHub
-- AI / Machine Learning
+- Artificial Intelligence & Machine Learning
 
 ---
 
 ## 🌐 Connect With Me
 
-<div data-importer="socials" align="left">
-  <a href="https://www.instagram.com/atelier.r_m_j/?hl=en" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+<p align="center">
+  <a href="https://www.linkedin.com/in/radoanmoktakenjaman">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
   </a>
-  <a href="https://discordapp.com/users/1296490087730778244" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <a href="mailto:radoanjaman06@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
   </a>
-  <a href="radoanjaman06@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="https://www.instagram.com/atelier.r_m_j/">
+    <img
+      src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+      alt="Instagram"
+    />
   </a>
-  <a href="https://www.linkedin.com/in/radoanmoktakenjaman" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://discordapp.com/users/1296490087730778244">
+    <img
+      src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"
+      alt="Discord"
+    />
   </a>
-  <a href="https://wa.me/01918938913" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+  <a href="https://wa.me/01918938913">
+    <img
+      src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
+      alt="WhatsApp"
+    />
   </a>
-</div>
+</p>
 
 ---
 
@@ -107,15 +133,30 @@ I learn by building projects, solving programming problems, participating in CTF
   <i>Learning → Building → Solving → Improving</i>
 </p>
 
-###
+## 🐍 Contribution Graph
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/radoanjaman/radoanjaman/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/radoanjaman/radoanjaman/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/radoanjaman/radoanjaman/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
-###
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/radoanjaman/radoanjaman/snake-output/snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/radoanjaman/radoanjaman/snake-output/snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/radoanjaman/radoanjaman/snake-output/snake.svg"
+      alt="Snake contribution graph"
+    />
+  </picture>
+</p>
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/radoanjaman/radoanjaman/snake-output/snake.svg" alt="Snake animation" />
+---
 
-###
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/radoanjaman/radoanjaman/pacman-output/pacman-contribution-graph-dark.svg"
+    alt="Pacman contribution graph"
+  />
+</p>
